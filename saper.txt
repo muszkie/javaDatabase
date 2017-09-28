@@ -1,0 +1,10 @@
+ 21
+ 23
+muszkie 32
+empty 999
+empty 999
+empty 999
+empty 999
+empty 999
+empty 999
+empty 999

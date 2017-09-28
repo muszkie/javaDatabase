@@ -1,0 +1,10 @@
+muszkie 252
+ 84
+ 70
+ 28
+empty 0
+empty 0
+empty 0
+empty 0
+empty 0
+empty 0
